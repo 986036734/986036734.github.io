@@ -1,4 +1,5 @@
-{
+[
+  {
     "word": "abolition",
     "pronunciations": {
       "uk": {"ipa": "/ˌæb.əˈlɪʃ.ən/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abolition--_gb_1.mp3"},
@@ -46,3 +47,4 @@
       {"en": "Her long, dark hair cascaded down her back.", "cn": "她乌黑的长发如瀑布般披在背上。"}
     ]
   }
+]
