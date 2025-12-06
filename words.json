@@ -1,0 +1,50 @@
+[
+  {
+    "word": "abolition",
+    "pronunciations": {
+      "uk": {"ipa": "/ˌæb.əˈlɪʃ.ən/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abolition--_gb_1.mp3"},
+      "us": {"ipa": "/ˌæb.əˈlɪʃ.ən/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abolition--_us_1.mp3"}
+    },
+    "definition": "n. 废除，废止",
+    "examples": [
+      {"en": "The abolition of slavery was a landmark achievement.", "cn": "废除奴隶制是一项里程碑式的成就。"},
+      {"en": "Many people advocate for the abolition of the death penalty.", "cn": "许多人主张废除死刑。"}
+    ]
+  },
+  {
+    "word": "abstract",
+     "pronunciations": {
+      "uk": {"ipa": "/ˈæb.strækt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abstract--_gb_1.mp3"},
+      "us": {"ipa": "/ˈæb.strækt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abstract--_us_1.mp3"}
+    },
+    "definition": "adj. 抽象的；n. 摘要",
+    "examples": [
+      {"en": "Beauty is an abstract concept that is hard to define.", "cn": "美是一个很难定义的抽象概念。"},
+      {"en": "Please provide a one-page abstract of your research paper.", "cn": "请为你的研究论文提供一页的摘要。"}
+    ]
+  },
+  {
+    "word": "caliber",
+    "pronunciations": {
+      "uk": {"ipa": "/ˈkæl.ɪ.bər/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/caliber--_gb_1.mp3"},
+      "us": {"ipa": "/ˈkæl.ə.bɚ/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/caliber--_us_1.mp3"}
+    },
+    "definition": "n. 才干，水准；口径",
+    "examples": [
+      {"en": "The firm is looking for a new CEO of the highest caliber.", "cn": "这家公司正在寻找一位最高水准的新任首席执行官。"},
+      {"en": "This is a .22 caliber rifle.", "cn": "这是一把.22口径的步枪。"}
+    ]
+  },
+  {
+    "word": "cascade",
+    "pronunciations": {
+      "uk": {"ipa": "/kæsˈkeɪd/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cascade--_gb_1.mp3"},
+      "us": {"ipa": "/kæsˈkeɪd/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cascade--_us_1.mp3"}
+    },
+    "definition": "n. 小瀑布；v. 倾泻",
+    "examples": [
+      {"en": "A cascade of water flowed down the rocks.", "cn": "一股小瀑布顺着岩石流下。"},
+      {"en": "Her long, dark hair cascaded down her back.", "cn": "她乌黑的长发如瀑布般披在背上。"}
+    ]
+  }
+]

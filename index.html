@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>专八单词学习</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>英语专八核心词汇</h1>
+        <p>点击卡片查看详细释义和发音</p>
+    </header>
+    <main>
+        <div id="word-list" class="word-grid"></div>
+    </main>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modal-word"></h2>
+            <div id="pronunciations-container">
+                <div class="pron-item">
+                    <span>UK <span id="modal-pronunciation-uk"></span></span>
+                    <button id="play-uk-audio" class="audio-button">🔊</button>
+                </div>
+                <div class="pron-item">
+                    <span>US <span id="modal-pronunciation-us"></span></span>
+                    <button id="play-us-audio" class="audio-button">🔊</button>
+                </div>
+            </div>
+            <p id="modal-definition"></p>
+            <div id="modal-examples"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
