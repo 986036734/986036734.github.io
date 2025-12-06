@@ -1,50 +1,98 @@
 [
   {
-    "word": "abolition",
+    "word": "abundant",
     "pronunciations": {
-      "uk": {"ipa": "/ˌæb.əˈlɪʃ.ən/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abolition--_gb_1.mp3"},
-      "us": {"ipa": "/ˌæb.əˈlɪʃ.ən/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abolition--_us_1.mp3"}
+      "uk": {"ipa": "/əˈbʌn.dənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abundant--_gb_1.mp3"},
+      "us": {"ipa": "/əˈbʌn.dənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abundant--_us_1.mp3"}
     },
-    "definition": "n. 废除，废止",
+    "definition": "adj. 丰富的，充裕的",
     "examples": [
-      {"en": "The abolition of slavery was a landmark achievement.", "cn": "废除奴隶制是一项里程碑式的成就。"},
-      {"en": "Many people advocate for the abolition of the death penalty.", "cn": "许多人主张废除死刑。"}
+      {"en": "There is abundant evidence to support his theory.", "cn": "有充分的证据支持他的理论。"},
+      {"en": "The country has abundant natural resources.", "cn": "该国拥有丰富的自然资源。"}
     ]
   },
   {
-    "word": "abstract",
-     "pronunciations": {
-      "uk": {"ipa": "/ˈæb.strækt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abstract--_gb_1.mp3"},
-      "us": {"ipa": "/ˈæb.strækt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/abstract--_us_1.mp3"}
+    "word": "advocate",
+    "pronunciations": {
+      "uk": {"ipa": "/ˈæd.və.keɪt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/advocate--_gb_1.mp3"},
+      "us": {"ipa": "/ˈæd.və.kət/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/advocate--_us_1.mp3"}
     },
-    "definition": "adj. 抽象的；n. 摘要",
+    "definition": "v. 提倡，主张；n. 拥护者",
     "examples": [
-      {"en": "Beauty is an abstract concept that is hard to define.", "cn": "美是一个很难定义的抽象概念。"},
-      {"en": "Please provide a one-page abstract of your research paper.", "cn": "请为你的研究论文提供一页的摘要。"}
+      {"en": "She advocates taking a more long-term view.", "cn": "她主张采取更长远的眼光。"},
+      {"en": "He is a strong advocate of free speech.", "cn": "他是言论自由的坚定拥护者。"}
     ]
   },
   {
-    "word": "caliber",
+    "word": "bizarre",
     "pronunciations": {
-      "uk": {"ipa": "/ˈkæl.ɪ.bər/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/caliber--_gb_1.mp3"},
-      "us": {"ipa": "/ˈkæl.ə.bɚ/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/caliber--_us_1.mp3"}
+      "uk": {"ipa": "/bɪˈzɑːr/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bizarre--_gb_1.mp3"},
+      "us": {"ipa": "/bəˈzɑːr/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bizarre--_us_1.mp3"}
     },
-    "definition": "n. 才干，水准；口径",
+    "definition": "adj. 奇异的，古怪的",
     "examples": [
-      {"en": "The firm is looking for a new CEO of the highest caliber.", "cn": "这家公司正在寻找一位最高水准的新任首席执行官。"},
-      {"en": "This is a .22 caliber rifle.", "cn": "这是一把.22口径的步枪。"}
+      {"en": "That's a bizarre story; I don't believe it.", "cn": "那是个离奇的故事，我不相信。"},
+      {"en": "He had a bizarre habit of talking to his plants.", "cn": "他有一个和植物说话的古怪习惯。"}
     ]
   },
   {
-    "word": "cascade",
+    "word": "coherent",
     "pronunciations": {
-      "uk": {"ipa": "/kæsˈkeɪd/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cascade--_gb_1.mp3"},
-      "us": {"ipa": "/kæsˈkeɪd/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cascade--_us_1.mp3"}
+      "uk": {"ipa": "/kəʊˈhɪə.rənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/coherent--_gb_1.mp3"},
+      "us": {"ipa": "/koʊˈhɪr.ənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/coherent--_us_1.mp3"}
     },
-    "definition": "n. 小瀑布；v. 倾泻",
+    "definition": "adj. 连贯的，条理清晰的",
     "examples": [
-      {"en": "A cascade of water flowed down the rocks.", "cn": "一股小瀑布顺着岩石流下。"},
-      {"en": "Her long, dark hair cascaded down her back.", "cn": "她乌黑的长发如瀑布般披在背上。"}
+      {"en": "She proposed a coherent plan for the city's development.", "cn": "她为城市发展提出了一个条理清晰的计划。"},
+      {"en": "The witness's story was not coherent.", "cn": "这位目击者的叙述前后不连贯。"}
+    ]
+  },
+  {
+    "word": "deduce",
+    "pronunciations": {
+      "uk": {"ipa": "/dɪˈdʒuːs/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/deduce--_gb_1.mp3"},
+      "us": {"ipa": "/dɪˈduːs/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/deduce--_us_1.mp3"}
+    },
+    "definition": "v. 推论，演绎",
+    "examples": [
+      {"en": "We can deduce a lot from what he didn't say.", "cn": "从他没说的话里我们可以推断出很多信息。"},
+      {"en": "The police deduced that the robber must have had a key.", "cn": "警方推断劫匪一定有钥匙。"}
+    ]
+  },
+  {
+    "word": "eloquent",
+    "pronunciations": {
+      "uk": {"ipa": "/ˈel.ə.kwənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/eloquent--_gb_1.mp3"},
+      "us": {"ipa": "/ˈel.ə.kwənt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/eloquent--_us_1.mp3"}
+    },
+    "definition": "adj. 雄辩的，有口才的",
+    "examples": [
+      {"en": "She made an eloquent appeal for action.", "cn": "她发表了富有说服力的行动呼吁。"},
+      {"en": "His eloquent speech moved the audience.", "cn": "他雄辩的演讲感动了听众。"}
+    ]
+  },
+  {
+    "word": "facilitate",
+    "pronunciations": {
+      "uk": {"ipa": "/fəˈsɪl.ɪ.teɪt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/facilitate--_gb_1.mp3"},
+      "us": {"ipa": "/fəˈsɪl.ə.teɪt/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/facilitate--_us_1.mp3"}
+    },
+    "definition": "v. 促进，使便利",
+    "examples": [
+      {"en": "Modern inventions are designed to facilitate our lives.", "cn": "现代发明旨在为我们的生活提供便利。"},
+      {"en": "The new airport will facilitate the development of tourism.", "cn": "新机场将促进旅游业的发展。"}
+    ]
+  },
+  {
+    "word": "gregarious",
+    "pronunciations": {
+      "uk": {"ipa": "/ɡrɪˈɡeə.ri.əs/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/gregarious--_gb_1.mp3"},
+      "us": {"ipa": "/ɡrɪˈɡer.i.əs/", "audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/gregarious--_us_1.mp3"}
+    },
+    "definition": "adj. 爱交际的，合群的",
+    "examples": [
+      {"en": "Emma is a gregarious, outgoing person.", "cn": "艾玛是个喜欢交际、外向的人。"},
+      {"en": "He was a popular and gregarious man.", "cn": "他是一个受人欢迎、善于交际的人。"}
     ]
   }
 ]
